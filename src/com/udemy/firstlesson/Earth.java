@@ -16,6 +16,14 @@ public class Earth {
         tom.speak();
         tom.eat();
 
+        Human joe = new Human();
+        joe.age = 36;
+        joe.eyeColor = "Green";
+        joe.name = "Joe Greensilk";
+        joe.heightInches = 68;
+
+        joe.speak();
+        joe.eat();
 
     }
 }
