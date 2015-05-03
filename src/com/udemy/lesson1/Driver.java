@@ -1,3 +1,5 @@
+package com.udemy.lesson1;
+
 /**
  * Created by Gürkan on 25.4.2015.
  */

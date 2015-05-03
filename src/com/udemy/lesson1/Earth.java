@@ -1,4 +1,4 @@
-package com.udemy.firstlesson;
+package com.udemy.lesson1;
 
 /**
  * Created by Gürkan on 22.4.2015.
